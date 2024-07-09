@@ -1,2 +1,2 @@
 # plagiarism-checker
-Pairwise file comparison 
+Pairwise file comparison using longest common subsequence algorithm
