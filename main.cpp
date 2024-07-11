@@ -12,7 +12,7 @@ int main(int argc, const char* argv[]) {
     // check for 0, 2, or more command line arguments
 
     if(total_argc == 0 || total_argc >= 2){
-        std::cout << "To use this program correctly, one should type...\n./hw1 [directory] containing directories each of which contains text files" << '\n'; 
+        std::cout << "To use this program correctly, one should type...\n./plagiarism-checker-main [directory] containing directories each of which contains text files" << '\n'; 
     }
     else
     {
