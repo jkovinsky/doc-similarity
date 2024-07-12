@@ -6,5 +6,5 @@
 
 **Using Terminal**:
 - cd into `plagiarism-checker-main`
-- type `make` to verify the program compiles
+- type `make` to verify that things compiled
 - type `./plagiarism-checker-main Test` to make a pairwise comparison of text files located in the `Test` folder
