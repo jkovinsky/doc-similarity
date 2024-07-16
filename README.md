@@ -1,4 +1,4 @@
-# doc similarity
+# doc-similarity
 
 **Summary**: The following script uses features from the `<filesystem>` library, which was introduced in `C++17`, along with a standard algorithm detecting the [longest common subsequence](https://en.wikipedia.org/wiki/Longest_common_subsequence) between two strings. 
 
